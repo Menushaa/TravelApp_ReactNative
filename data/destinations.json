@@ -1,0 +1,67 @@
+[
+    {
+        "id":"1",
+        "name": "Tropical Paradise Resort",
+        "image":"https://www.freepik.com/premium-ai-image/tropical-paradise-resort-with-overwater-bungalows-clear-blue-lagoon-sunny-skies-exotic_172392582.htm" ,
+        "description":"gkhjhnkjnhhjynh",
+        "rating":"4.8",
+        "price":"150",
+        "duration":"3",
+        "location":"Pacific Ocean",
+        "category":"Beaches"
+    },
+    {
+        "id":"2",
+        "name": "Alpine Chalet Retreat",
+        "image":"" ,
+        "description":"fdlgmrtklthjrot",
+        "rating":"4.5",
+        "price":"120",
+        "duration":"4",
+        "location":"Swizerlan",
+        "category":"Mountains"
+    },
+    {
+        "id":"3",
+        "name": "Urban Explorer's Dream",
+        "image":"" ,
+        "description":"gutyjyjugjgjn",
+        "rating":"4.7",
+        "price":"140",
+        "duration":"2",
+        "location":"USA",
+        "category":"Cities"
+    },{
+        "id":"4",
+        "name": "Enchanted Forest Retreat",
+        "image":"" , 
+        "description":" jhbkjniuhujbhb",
+        "rating":"4.6",
+        "price":"180",
+        "duration":"5",
+        "location":"USA",
+        "category":"Forests"
+    },
+    {
+        "id":"5",
+        "name": "Tranquil Lakeside Haven",
+        "image":"" ,
+        "description":"ncjvbu",
+        "rating":"4.9",
+        "price":"120",
+        "duration":"3",
+        "location":"England",
+        "category":"Lakes"
+    },
+    {
+        "id":"6",
+        "name": "Sandy Shores Beach Resort",
+        "image":"" ,
+        "description":"dlfkgnmkjdb n",
+        "rating":"4.8",
+        "price":"100",
+        "duration":"5",
+        "location":"Canada",
+        "category":"Beaches"
+    }
+]
